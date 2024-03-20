@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl_MarkupCompile.cache
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.g.resources
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.AssemblyInfo.cs
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\678\10 pfl\10 pfl\bin\Debug\net6.0-windows\10 pfl.exe
+C:\Users\user\Desktop\678\10 pfl\10 pfl\bin\Debug\net6.0-windows\10 pfl.deps.json
+C:\Users\user\Desktop\678\10 pfl\10 pfl\bin\Debug\net6.0-windows\10 pfl.runtimeconfig.json
+C:\Users\user\Desktop\678\10 pfl\10 pfl\bin\Debug\net6.0-windows\10 pfl.dll
+C:\Users\user\Desktop\678\10 pfl\10 pfl\bin\Debug\net6.0-windows\10 pfl.pdb
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.dll
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\refint\10 pfl.dll
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.pdb
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\10 pfl.genruntimeconfig.cache
+C:\Users\user\Desktop\678\10 pfl\10 pfl\obj\Debug\net6.0-windows\ref\10 pfl.dll
